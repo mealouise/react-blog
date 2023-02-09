@@ -1,3 +1,3 @@
-# react- blog
+# react-blog
 
 npm run start
